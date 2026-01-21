@@ -1,0 +1,2 @@
+VALID_PRODUCT = "Produto Teste"
+INVALID_PRODUCT = ""
